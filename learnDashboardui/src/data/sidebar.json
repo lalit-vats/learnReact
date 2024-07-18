@@ -1,0 +1,26 @@
+[
+    
+    {
+        "parent": "Dashboard",
+        "link": "/home",
+        "icon": "LuLayoutDashboard",
+        "children": []
+    },
+    {
+        "parent": "Branch",
+        "icon": "PiBuildingOffice",
+        "link": "NA",
+        "children": [
+            {
+                "name": "Add Branch",
+                "icon": "BsBuildingAdd",
+                "link": "/enquiry"
+            },
+            {
+                "name": "List Branch",
+                "icon": "BsBuildingAdd",
+                "link": "/link"
+            }
+        ]
+    }
+]
